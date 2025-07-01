@@ -6,7 +6,7 @@ authors = ["Ishaan Mehta <ishaan_mehta@gap.com>"]
 
 [tool.poetry.dependencies]
 python = ">=3.12,<3.13"
-nemoguardrails = "^0.9"
+nemoguardrails = "^0.14"
 
 [tool.poetry.scripts]
 guardrails = "guardrails_cli.cli:main"
